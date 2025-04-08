@@ -1,0 +1,13 @@
+# Navigation Links
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Início
+    url: /
+    weight: 10
+  - name: Recursos
+    url: docs/
+    weight: 20
+  - name: Contribua
+    url: community/
+    weight: 30
