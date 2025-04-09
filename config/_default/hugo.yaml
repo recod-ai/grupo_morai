@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Grupo de Estudos MORAI" # Website name
-baseURL: 'https://giovanivaldrighi.github.io/morai_group/' # Website URL
+baseURL: 'https://recod-ai.github.io/morai/' # Website URL
 
 ############################
 ## PAGE OPTIONS

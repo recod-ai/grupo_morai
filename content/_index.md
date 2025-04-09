@@ -14,11 +14,11 @@ sections:
       text: Grupo de Estudos - Multi Objective Responsible Artificial Intelligence
       primary_action:
         text: Contribua
-        url: https://giovanivaldrighi.github.io/morai_group/community/
+        url: https://recod-ai.github.io/morai/community/
         icon: rocket-launch
       secondary_action:
         text: Recursos
-        url: https://giovanivaldrighi.github.io/morai_group/docs/
+        url: https://recod-ai.github.io/morai/docs/
     design:
       spacing:
         padding: [0, 0, 0, 0]

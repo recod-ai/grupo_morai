@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/GiovaniValdrighi/morai_group/'
+    url: 'https://github.com/recod-ai/morai'
     content_dir: 'content'
     branch: 'main'
   feedback:
