@@ -1,5 +1,5 @@
 ---
-title: Variáveis Aleatórias
+title: Variáveis Aleatórias (p2)
 weight: 3
 ---
 
